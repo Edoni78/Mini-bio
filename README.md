@@ -1,10 +1,9 @@
 # Edon Aliu
 ## Biografia ime
 
-## Gjerat qe me pelqejne
+## Jam Edon Aliu 19 vjeqar,nga qyteti i podujeves, student i Shkencave Kompjuterike dhe Inxhinieri ne kolegjin UBT
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
+## Gjerat qe me pelqejn
+-Kodimi
+-Librat
 
-
-[Google](https://google.com)
